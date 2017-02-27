@@ -1,4 +1,4 @@
-package com.example.commons.pushlibrary;
+package com.example.pushlibrary;
 
 import android.content.Context;
 import android.util.Log;
@@ -7,7 +7,7 @@ import com.alibaba.sdk.android.push.CloudPushService;
 import com.alibaba.sdk.android.push.CommonCallback;
 import com.alibaba.sdk.android.push.noonesdk.PushServiceFactory;
 import com.alibaba.sdk.android.push.notification.CustomNotificationBuilder;
-import com.example.commons.pushlibrary.service.IBaseCallback;
+import com.example.pushlibrary.service.IBaseCallback;
 
 /**
  * Created by LiLi on 2017/2/8.

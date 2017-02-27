@@ -7,8 +7,8 @@ import android.util.Log;
 import com.alibaba.sdk.android.push.CloudPushService;
 import com.alibaba.sdk.android.push.CommonCallback;
 import com.alibaba.sdk.android.push.noonesdk.PushServiceFactory;
-import com.example.commons.pushlibrary.UTPushUtil;
-import com.example.commons.pushlibrary.service.IBaseCallback;
+import com.example.pushlibrary.UTPushUtil;
+import com.example.pushlibrary.service.IBaseCallback;
 
 /**
  * Created by LiLi on 2017/2/7.

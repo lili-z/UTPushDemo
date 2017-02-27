@@ -1,4 +1,4 @@
-package com.example.commons.pushlibrary.service;
+package com.example.pushlibrary.service;
 
 import android.content.Context;
 import android.util.Log;

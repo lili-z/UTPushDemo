@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.commons.pushlibrary.service;
+package com.example.pushlibrary.service;
 
 import android.app.Activity;
 import android.content.Context;
@@ -27,7 +27,7 @@ import android.preference.PreferenceManager;
 import android.support.annotation.Nullable;
 import android.util.Log;
 
-import com.example.commons.pushlibrary.R;
+import com.example.pushlibrary.R;
 
 import java.io.Closeable;
 import java.io.IOException;

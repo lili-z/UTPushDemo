@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UTPushDemo.iml" filepath="$PROJECT_DIR$/UTPushDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTpushlibrary/UTpushlibrary.iml" filepath="$PROJECT_DIR$/UTpushlibrary/UTpushlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

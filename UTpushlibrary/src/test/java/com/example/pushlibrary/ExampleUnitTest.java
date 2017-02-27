@@ -1,4 +1,4 @@
-package com.example.commons.pushlibrary;
+package com.example.pushlibrary;
 
 import org.junit.Test;
 

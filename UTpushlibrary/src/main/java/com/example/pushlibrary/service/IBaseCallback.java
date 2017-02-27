@@ -1,4 +1,4 @@
-package com.example.commons.pushlibrary.service;
+package com.example.pushlibrary.service;
 
 /**
  * Created by LiLi on 2017/2/8.
